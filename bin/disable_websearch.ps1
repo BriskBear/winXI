@@ -1,3 +1,4 @@
+# Disable start-menu search from using the web : 1666264363
 function Set-WebSearch([Switch]$Enabled, [Switch]$Disabled) {
   $PropName = 'BingSearchEnabled'
   $RegKey   = 'Search'

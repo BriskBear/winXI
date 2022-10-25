@@ -1,0 +1,7 @@
+Microsoft.WindowsCalculator
+MicrosoftEdge.Stable
+Microsoft.Paint
+Microsoft.ScreenSketch
+Microsoft.Services.Store.Engagement
+Microsoft.StorePurchaseApp
+Microsoft.WindowsStore

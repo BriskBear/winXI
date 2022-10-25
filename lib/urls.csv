@@ -1,0 +1,9 @@
+leaf url
+imdisk.exe https://imdisk.en.lo4d.com/download/mirror-hs1
+git.exe https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-64-bit.exe
+7zip.exe https://www.7-zip.org/a/7z2201-x64.exe
+nvim.msi https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.msi
+aReader.exe https://get.adobe.com/reader/download?os=Windows+11&name=Reader+DC+2022.003.20258+English+Windows%2864Bit%29&lang=en&nativeOs=Linux+x86_64&accepted=&declined=&preInstalled=&site=otherversions
+irfanview.exe https://download.cnet.com/IrfanView-64-bit/3001-2192_4-76444710.html
+gEarth.exe https://www.google.com/earth/about/versions/download-thank-you/?usagestats=0
+gChrome.exe https://www.google.com/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
