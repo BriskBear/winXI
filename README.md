@@ -11,4 +11,4 @@ _Disable webSearch, unpin defaults_
 3. Enable scripting, run the script, re-disable scripting(for security)  
   - `Set-ExecutionPolicy Unrestricted ; . ./main.ps1 ; Set-ExecutionPolicy Restricted`  
 
-__[Support]("mailto:eeccher@cppwind.com?subject=Help\:\ learning\/img_tool" 'Email Elijah')__
+__[Support]("mailto:eeccher@cppwind.com?subject=Help\:%20learning\/img_tool" 'Email Elijah')__
