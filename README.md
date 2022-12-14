@@ -10,5 +10,3 @@ _Disable webSearch, unpin defaults_
   - `cd img_tools`  
 3. Enable scripting, run the script, re-disable scripting(for security)  
   - `Set-ExecutionPolicy Unrestricted ; . ./main.ps1 ; Set-ExecutionPolicy Restricted`  
-
-__[Support](mailto:eeccher@cppwind.com?subject=Help:%20learning/img_tools 'email Elijah')__
